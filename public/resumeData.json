@@ -1,127 +1,122 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Nicolas Valencia",
+    "occupation":"Software automation engineer",
+    "description":"Perennial student of live, inspired by the convergence of technology, nature and human imagination.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Born in Colombia, raised in Canada and Japan. I'm a software engineer that believes improving communication in technology can lead to more robust goals and enhanced solutions ",
+    "contactmessage":"Contact details",
+    "email": "nicovama@gmail.com",
+    "phone": "(+81)080-4246-0991",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Minato-ku",
+      "state":"Tokyo"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.nicolasvalenciaux.com",
+    "resumedownload":"http://nicolasvalencia.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/nicovama",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/nicolasvalenciaman",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/nicovama",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Software engineer specialized in designing and managing infrastructure apps to improve software development performance and inter-team collaboration. Scrum master and Project management Professional¥n The combination of my communication and technical skills allow me to position as a leader that galvanizes team cooperation and provide unique solutions to my clients based on their needs",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Nihon University",
+        "degree":"BS Electronic Engineering and Computer Science.",
+        "graduated":"March 2015",
+        "description":"• Research in image cluster algorithms to analyze Cancer cell CT-scans ¥n• Third place a National competition for creating an eye tricking device that accurately. the computer mouse. ¥n First non asian foreign student to graduate with the to 10% GPA in the faculty."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Sony Interactive Entertainment,",
+        "title":"Software Automation engineer",
+        "years":"May 2017 - Present",
+        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E testing. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release. ¥n • Scrum QA lead, achieving automation rate of over 90% on hard-to-automate apps with audio-visual hardware. ¥n • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
       },
       {
         "company":"Super Cool Studio",
         "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"April 2015 - May 2017",
+        "description":"• QA test automation team leader involving custom image sensor developers in Japan, Belgium and United States. Proactive facilitation between teams lead to clear communication and agreement in role and responsibilities. ¥n • Image validation of iris-recognition and automotive sensors."
       }
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"Bash",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
+        "name":"Groovy",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
+        "name":"Pytest",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Language: English",
+        "level":"99%"
+      },
+      {
+        "name":"Language: Spanish",
+        "level":"99%"
+      },
+      {
+        "name":"Language: Japanese",
+        "level":"90%"
+      },
+      {
+        "name":"Language: French",
         "level":"80%"
+      },
+      {
+        "name":"Language: Portuguese",
+        "level":"50%"
+      },
+      {
+        "name":"Project management (PMP)",
+        "level":"70%"
+      },
+      {
+        "name":"Agile Scrum Master",
+        "level":"70%"
       }
     ]
   },
-  "portfolio":{
-    "projects": [
+  "Others":{
+    "Awards and Publications": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Publications",
+        "category":"GUI test method based on a network-path representation, IEICE technical report",
+        "url":"https://www.ieice.org/ken/paper/20180119H1bV/eng/"
       },
       {
         "title":"Fury Fighting Gear",
@@ -130,34 +125,16 @@
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Full undergraduate Scholarship",
+        "category":"Scholarship granted by the Japan Ministry of Education (MEXT)."
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Hobbies",
+        "category":"Rock climbing, Urban agriculture, Cooking and baking."
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "title":"Workshops",
+        "category":"Deep learning workshop for image processing. Hosted a company workshop focused on teaching basic programing skills and trends of image processing technologies to employees of all ages."
       }
     ]
   }
