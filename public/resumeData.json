@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Nicolas Valencia",
-    "occupation":"Software automation engineer",
+    "occupation":"Software engineer",
     "description":"Perennial student of live, inspired by the convergence of technology, nature and human imagination",
     "image":"profilepic.jpg",
-    "bio":"Born in Colombia, raised in Canada and Japan. I'm a software engineer that believes improving communication in technology can lead to more robust goals and enhanced solutions ",
+    "bio":"Born in Colombia, raised in Canada and Japan. I'm a software engineer that believes improving communication in technology can lead to more robust goals and enhanced solutions.",
     "contactmessage":"Contact details",
     "email": "nicovama@gmail.com",
-    "phone": "(+81)080-4246-0991",
+    "phone": "(+81)80-4246-0991",
     "address":{
       "city":"Minato-ku",
       "state":"Tokyo"
@@ -28,34 +28,34 @@
     ]
   },
   "resume":{
-    "skillmessage":"Software engineer specialized in designing and managing infrastructure apps to improve software development performance and inter-team collaboration. The combination of my communication and technical skills allow me to position as a leader that galvanizes team cooperation and provide unique solutions to my clients based on their needs",
+    "skillmessage":"Software engineer specialized in designing and managing infrastructure apps to improve software development performance and inter-team collaboration. The combination of my communication and technical skills allow me to position as a leader that galvanizes team cooperation and provide unique solutions to my clients based on their needs.",
     "education":[
       {
         "school":"Nihon University",
         "degree":"BS Electronic Engineering and Computer Science.",
         "graduated":"March 2015",
         "description":"• Research in image cluster algorithms to analyze Cancer cell CT-scans.",
-        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
-        "description3":" • Third place a National competition for creating an eye tricking device that accurately."
+        "description2":" • First non-asian foreign student to graduate within the top 10% GPA in the faculty.",
+        "description3":" • Third place in a National competition for creating an eye tricking device that can accurately control a cpu's mouse."
 
       }
     ],
     "work":[
       {
         "company":"Sony Interactive Entertainment,",
-        "title":"Software Automation engineer",
+        "title":"Senior software engineer",
         "years":"May 2017 - Present",
-        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E on cloud platforms. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
-        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
-        "description3":" • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
+        "description":"• Lead a team of 6 people from India, Japan and USA to create client dashboard apps for automated E2E testing using cloud platforms. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
+        "description2":"• Scrum QA leader of three client apps for the PS4, achieving automation rate of over 90% at the time of production deployment.",
+        "description3":"• Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
       },
       {
         "company":"Sony Corporation,",
         "title":"Image sensor design engineer",
-        "years":"April 2015 - May 2015",
-        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E testing. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
-        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
-        "description3":" • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
+        "years":"April 2015 - May 2017",
+        "description":"• Lead architect of custom pixel circuits design and image processing automated QA for image recognition image sensors.",
+        "description2":"• Team leader for sensor simulation and evaluation with developers in Japan, Belgium and United States. Proactive facilitation between teams lead to clear communication and agreement in role and responsibilities.",
+        "description3":"• Designed the parameters for in-house face recognition algorithms for image sensors used by tier-one smartphone clients. "
       }
     ],
     "programming":[
@@ -65,53 +65,65 @@
       },
       {
         "name":"Python",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"Groovy",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"Javascript",
-        "level":"50%"
+        "level":"30%"
       },
       {
         "name":"Git",
         "level":"90%"
       },
       {
-        "name":"Pytest",
+        "name":"CICD tools: Jenkins, Drone",
+        "level":"80%"
+      },
+      {
+        "name":"ELK Stack",
+        "level":"80%"
+      },
+      {
+        "name":"Appium/Selenium",
         "level":"50%"
+      },
+      {
+        "name":"OpenCV",
+        "level":"40%"
       }
     ],
     "business":[
       {
-        "name":"Language: English",
+        "name":"Project management (PMP certified)",
+        "level":"70%"
+      },
+      {
+        "name":"sAFE Agile process",
+        "level":"70%"
+      },
+      {
+        "name":"Language: English (TOEFL iBT 116)",
         "level":"99%"
       },
       {
-        "name":"Language: Spanish",
+        "name":"Language: Spanish (DELE A1)",
         "level":"99%"
       },
       {
-        "name":"Language: Japanese",
+        "name":"Language: Japanese (JLPT N1)",
         "level":"90%"
       },
       {
-        "name":"Language: French",
+        "name":"Language: French (DELF B2)",
         "level":"80%"
       },
       {
         "name":"Language: Portuguese",
         "level":"50%"
-      },
-      {
-        "name":"Project management (PMP)",
-        "level":"70%"
-      },
-      {
-        "name":"Agile Scrum Master",
-        "level":"70%"
       }
     ]
   },
