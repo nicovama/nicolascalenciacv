@@ -2,7 +2,7 @@
   "main": {
     "name":"Nicolas Valencia",
     "occupation":"Software automation engineer",
-    "description":"Perennial student of live, inspired by the convergence of technology, nature and human imagination.",
+    "description":"Perennial student of live, inspired by the convergence of technology, nature and human imagination",
     "image":"profilepic.jpg",
     "bio":"Born in Colombia, raised in Canada and Japan. I'm a software engineer that believes improving communication in technology can lead to more robust goals and enhanced solutions ",
     "contactmessage":"Contact details",
@@ -24,22 +24,20 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/nicolasvalenciaman",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/nicovama",
-        "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Software engineer specialized in designing and managing infrastructure apps to improve software development performance and inter-team collaboration. Scrum master and Project management Professional¥n The combination of my communication and technical skills allow me to position as a leader that galvanizes team cooperation and provide unique solutions to my clients based on their needs",
+    "skillmessage":"Software engineer specialized in designing and managing infrastructure apps to improve software development performance and inter-team collaboration. The combination of my communication and technical skills allow me to position as a leader that galvanizes team cooperation and provide unique solutions to my clients based on their needs",
     "education":[
       {
         "school":"Nihon University",
         "degree":"BS Electronic Engineering and Computer Science.",
         "graduated":"March 2015",
-        "description":"• Research in image cluster algorithms to analyze Cancer cell CT-scans ¥n• Third place a National competition for creating an eye tricking device that accurately. the computer mouse. ¥n First non asian foreign student to graduate with the to 10% GPA in the faculty."
+        "description":"• Research in image cluster algorithms to analyze Cancer cell CT-scans.",
+        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
+        "description3":" • Third place a National competition for creating an eye tricking device that accurately."
+
       }
     ],
     "work":[
@@ -47,16 +45,20 @@
         "company":"Sony Interactive Entertainment,",
         "title":"Software Automation engineer",
         "years":"May 2017 - Present",
-        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E testing. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release. ¥n • Scrum QA lead, achieving automation rate of over 90% on hard-to-automate apps with audio-visual hardware. ¥n • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
+        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E on cloud platforms. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
+        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
+        "description3":" • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"April 2015 - May 2017",
-        "description":"• QA test automation team leader involving custom image sensor developers in Japan, Belgium and United States. Proactive facilitation between teams lead to clear communication and agreement in role and responsibilities. ¥n • Image validation of iris-recognition and automotive sensors."
+        "company":"Sony Corporation,",
+        "title":"Image sensor design engineer",
+        "years":"April 2015 - May 2015",
+        "description":"• Lead a team of 6 people to create client dashboard app for automated E2E testing. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
+        "description2":" • First non-asian foreign student to graduate within the to 10% GPA in the faculty.",
+        "description3":" • Co-wrote a science article on how to create objective test cases for UI application based on mathematical graph theory."
       }
     ],
-    "skills":[
+    "programming":[
       {
         "name":"Bash",
         "level":"80%"
@@ -80,7 +82,9 @@
       {
         "name":"Pytest",
         "level":"50%"
-      },
+      }
+    ],
+    "business":[
       {
         "name":"Language: English",
         "level":"99%"
@@ -111,30 +115,30 @@
       }
     ]
   },
-  "Others":{
-    "Awards and Publications": [
+  "miscellaneous":{
+    "projects": [
       {
         "title":"Publications",
         "category":"GUI test method based on a network-path representation, IEICE technical report",
+        "image":"IEICE-CS.jpg",
         "url":"https://www.ieice.org/ken/paper/20180119H1bV/eng/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Full undergraduate Scholarship",
+        "category":"Undergraduate scholarship granted by the Japan Ministry of Education (MEXT) for academic excellence.",
+        "image":"Japanese-Government-Scholarship.png",
+        "url":"https://www.studyjapan.go.jp/en/toj/toj0302e-10.html"
       },
       {
-        "title":"Full undergraduate Scholarship",
-        "category":"Scholarship granted by the Japan Ministry of Education (MEXT)."
+        "title":"Volunteering",
+        "category":"Volunteer for Second Harvest Japan, cooking for the homeless in Tokyo. Japan Cat Network recurring volunteer for animal rescue and neuter missions in Fukushima prefecture.",
+        "image":"JCN.jpg",
+        "url":"https://japancatnetwork.org/"
       },
       {
         "title":"Hobbies",
-        "category":"Rock climbing, Urban agriculture, Cooking and baking."
-      },
-      {
-        "title":"Workshops",
-        "category":"Deep learning workshop for image processing. Hosted a company workshop focused on teaching basic programing skills and trends of image processing technologies to employees of all ages."
+        "category":"V6 grade Rock climber. Home cook and baker. (Personal blog still a work in progress!)",
+        "image":"Cooking.jpg"
       }
     ]
   }

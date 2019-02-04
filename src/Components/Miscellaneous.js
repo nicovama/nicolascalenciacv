@@ -1,17 +1,17 @@
 import React, { Component } from 'react';
 
-class Portfolio extends Component {
+class Miscellaneous extends Component {
   render() {
 
     if(this.props.data){
       var projects = this.props.data.projects.map(function(projects){
-        var projectImage = 'images/portfolio/'+projects.image;
-        return <div key={projects.title} className="columns portfolio-item">
+        var projectImage = 'images/miscellaneous/'+projects.image;
+        return <div key={projects.title} className="columns miscellaneous-item">
            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
-                  <div className="portfolio-item-meta">
+                  <div className="miscellaneous-item-meta">
                  <h5>{projects.title}</h5>
                      <p>{projects.category}</p>
                   </div>
@@ -24,15 +24,15 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <section id="miscellaneous">
 
       <div className="row">
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Some other things about me.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+            <div id="miscellaneous-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
           </div>
@@ -42,4 +42,4 @@ class Portfolio extends Component {
   }
 }
 
-export default Portfolio;
+export default Miscellaneous;
