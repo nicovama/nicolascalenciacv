@@ -43,7 +43,7 @@
     "work":[
       {
         "company":"Sony Interactive Entertainment,",
-        "title":"Senior software engineer",
+        "title":"Sr. Software Development Engineer",
         "years":"May 2017 - Present",
         "description":"• Lead a team of 6 people from India, Japan and USA to create client dashboard apps for automated E2E testing using cloud platforms. The success of this team helped streamline Development-QA feedback that increased the test cycle performance, quickly analyzing test code coverage and reporting bugs before the final product release.",
         "description2":"• Scrum QA leader of three client apps for the PS4, achieving automation rate of over 90% at the time of production deployment.",
@@ -51,7 +51,7 @@
       },
       {
         "company":"Sony Corporation,",
-        "title":"Image sensor design engineer",
+        "title":"Image Sensor Design Engineer",
         "years":"April 2015 - May 2017",
         "description":"• Lead architect of custom pixel circuits design and image processing automated QA for image recognition image sensors.",
         "description2":"• Team leader for sensor simulation and evaluation with developers in Japan, Belgium and United States. Proactive facilitation between teams lead to clear communication and agreement in role and responsibilities.",
@@ -98,7 +98,7 @@
     ],
     "business":[
       {
-        "name":"Project management (PMP certified)",
+        "name":"Project management (coursed over 80h for PMP®)",
         "level":"70%"
       },
       {
